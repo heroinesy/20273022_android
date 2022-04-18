@@ -23,3 +23,8 @@
 <img width="541" src="https://user-images.githubusercontent.com/101615063/162207564-629dafc1-7434-4dbe-a3d6-cc6d62e76b9e.png">
 <img width="561" src="https://user-images.githubusercontent.com/101615063/162207621-d63e7689-da9f-442b-b139-ef1f01f8de7e.png">
 <img width="561" src="https://user-images.githubusercontent.com/101615063/162207699-86db892e-c454-46e0-9038-537d2b8e3a38.png">
+
+
+### 6주차 과제
+<img width="438" src="https://user-images.githubusercontent.com/101615063/163820176-6b6ad034-74a8-4097-8ee2-051beb879787.png">
+<img width="438" src="https://user-images.githubusercontent.com/101615063/163820186-cdedfd16-5ccb-4cf4-93e7-488f414e745b.png">
